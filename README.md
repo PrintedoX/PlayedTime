@@ -8,4 +8,4 @@
 1) Copy **PlayedTime** to your FXServer resource folder
 2) Add **start PlayedTime** to your **sever.cfg** file
 3) Add the SQL file **SQL.sql**
-4) Start your server
+4) Restart your server
